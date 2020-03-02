@@ -6,11 +6,11 @@
 /*   By: bkasandr <bkasandr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/02 09:33:54 by bkasandr          #+#    #+#             */
-/*   Updated: 2020/03/02 12:45:47 by bkasandr         ###   ########.fr       */
+/*   Updated: 2020/03/02 12:46:21 by bkasandr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int printf( const char *format , ...);
+int ft_printf( const char *format , ...);
 
 int main(void)
 {
